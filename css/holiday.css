@@ -1,0 +1,16 @@
+body {
+	background-color: #87ceeb;
+}
+
+#container {
+	border: 1px solid #000;
+	height: 100px;
+	padding: 30px;
+	margin: 10% auto 0  auto;
+	width: 500px;
+}
+
+.statement {
+  margin-top: 35px;
+	text-align: center;
+}
